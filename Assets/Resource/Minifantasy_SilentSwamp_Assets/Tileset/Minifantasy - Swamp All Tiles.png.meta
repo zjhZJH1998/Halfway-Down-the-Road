@@ -1,0 +1,3379 @@
+fileFormatVersion: 2
+guid: a6c07ac6ff82c22468e05e2cd534431b
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 22
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Minifantasy - Swamp All Tiles_0
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 632
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb76839968a3b704e997fc26eeff2fc4
+      internalID: 1096688397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy - Swamp All Tiles_1
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 624
+        width: 24
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cdea59b042c6b5644b34aaabe7df19e6
+      internalID: -244935598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy - Swamp All Tiles_2
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 624
+        width: 24
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8fac71bcc2c8b848aa6679c799fbcdb
+      internalID: -1338943646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy - Swamp All Tiles_3
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 624
+        width: 24
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d57c97283c15abe4b9ef4a6dbf790053
+      internalID: 208017774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy - Swamp All Tiles_4
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 557
+        width: 77
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e3f89944e899bb4a9c65df4c0f29d19
+      internalID: 2053911776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy - Swamp All Tiles_5
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 611
+        width: 13
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e86c783ad3a3a8b4183be7f128346e46
+      internalID: -2040363596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy - Swamp All Tiles_6
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 624
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39cf821275f5ad8439194d7ade2df1c7
+      internalID: -1248450438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy - Swamp All Tiles_7
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 619
+        width: 5
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 351afc5ded78c7043aa503de2dc8d387
+      internalID: 1202565164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy - Swamp All Tiles_8
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 616
+        width: 5
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8dc542e579f48654e9bcc99f72767309
+      internalID: 1882891326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy - Swamp All Tiles_9
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 616
+        width: 5
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97731e7dbc9e7ba4aa693105137879af
+      internalID: -925861059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy - Swamp All Tiles_10
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 619
+        width: 5
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49e31b62a3514a246b8b0652c7a51a08
+      internalID: 185419436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy - Swamp All Tiles_11
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 624
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 002d7f15440f71041a1d965c3ccec860
+      internalID: 1036615826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy - Swamp All Tiles_12
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 568
+        width: 88
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 818ee40463e7c5e43978dda16c88adde
+      internalID: -1169604441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy - Swamp All Tiles_13
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 576
+        width: 24
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4ff82a46733c754189fb04ede132bf9
+      internalID: -1859275911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy - Swamp All Tiles_14
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 576
+        width: 24
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77c8423eea705554e840544a8925f5ef
+      internalID: 1691878459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy - Swamp All Tiles_15
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 576
+        width: 24
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1f781a4670bbad41908fb25d4e087e6
+      internalID: -792717088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy - Swamp All Tiles_16
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 576
+        width: 24
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd68d07fc068b8645903634dd341aa1f
+      internalID: -1880221684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy - Swamp All Tiles_17
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 595
+        width: 6
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb8e4b77d351e04468316dfe536d6dda
+      internalID: 2023828377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy - Swamp All Tiles_18
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 592
+        width: 6
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40bcacd5950b8524aaa96a4c128c96e8
+      internalID: -2050538266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy - Swamp All Tiles_19
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 600
+        width: 7
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 924b8d4965c8eaf45a7d8c6486ca0631
+      internalID: -1062021454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy - Swamp All Tiles_20
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 592
+        width: 6
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15122456fc6e6874ca1893581dd5d36c
+      internalID: 786676767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy - Swamp All Tiles_21
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 595
+        width: 6
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04692d22a339d1e43a731a275672fa89
+      internalID: 1390319544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy - Swamp All Tiles_22
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 573
+        width: 15
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d624c03ec16c1794cb8fb35f11d8b958
+      internalID: 651282392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy - Swamp All Tiles_23
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 568
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9937e155c112b424ea3422173231a9cd
+      internalID: 1094271500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy - Swamp All Tiles_24
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 568
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21ca06a897a8e154f9990fcad15c284a
+      internalID: 1410148181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy - Swamp All Tiles_25
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 528
+        width: 24
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76c4c8c7ec43652489ca5fa129d3c250
+      internalID: -1449865017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy - Swamp All Tiles_26
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 528
+        width: 24
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b0ee39f65d1b3a408d9a7c24839de66
+      internalID: 304529517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy - Swamp All Tiles_27
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 528
+        width: 24
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1248a540ba9d26d4080f94ae99064f8d
+      internalID: -308455057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy - Swamp All Tiles_28
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 528
+        width: 24
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 262df370e1c8a6c4d9df34920fb7d24f
+      internalID: 832676613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy - Swamp All Tiles_29
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 561
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 535695f905822b941972f1358d9189ca
+      internalID: -377919212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy - Swamp All Tiles_30
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 558
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14346fe919f8edd4f9406123855a653d
+      internalID: 671135823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy - Swamp All Tiles_31
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 557
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e775f43d22690ec489bd04113b7f2adf
+      internalID: 20432975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy - Swamp All Tiles_32
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 469
+        width: 77
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 939f99d9cf885ce4cbbce43a8314f214
+      internalID: 3494429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy - Swamp All Tiles_33
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 529
+        width: 5
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b437336bb4fac24dbe99fd999b778dd
+      internalID: 1346836715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy - Swamp All Tiles_34
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 528
+        width: 5
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc79b06451d50ee42b20f569a0dc24b6
+      internalID: -796280468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy - Swamp All Tiles_35
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 526
+        width: 5
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56bbcbb2ff0b3014ba2f61216af83d0b
+      internalID: -1288356689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy - Swamp All Tiles_36
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 523
+        width: 5
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39af516e76c02214aa85b8adc96cc1de
+      internalID: -2066282194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy - Swamp All Tiles_37
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 520
+        width: 5
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f6f87fa963e3fa4b997f862899fec8d
+      internalID: 1267324547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy - Swamp All Tiles_38
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 523
+        width: 13
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da05afa8cbd8273498cda9333d555d6d
+      internalID: 588200907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy - Swamp All Tiles_39
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 520
+        width: 5
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59828349d75f2e143812811b2e3b7184
+      internalID: 2009280657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy - Swamp All Tiles_40
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 523
+        width: 5
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a9f25a242375254ca47237795cd292b
+      internalID: -2138164362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy - Swamp All Tiles_41
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 526
+        width: 5
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2599d7880d1d0d4428a40c0ea8e347c0
+      internalID: -1285148934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy - Swamp All Tiles_42
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 528
+        width: 5
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f91a621c6c9dec7449317c8653b7e351
+      internalID: 323199540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy - Swamp All Tiles_43
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 529
+        width: 5
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc377d78935a9f844a8b15851d0eceb9
+      internalID: -213360368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy - Swamp All Tiles_44
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 496
+        width: 56
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03b60868584361c48ad049436f5d48b5
+      internalID: 31935219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy - Swamp All Tiles_45
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 480
+        width: 24
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8df236b696f34844a3dc263a55222f1
+      internalID: -1079364614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy - Swamp All Tiles_46
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 480
+        width: 24
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61e1ce47a73c14c4387f997fcab538c5
+      internalID: -287467385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy - Swamp All Tiles_47
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 480
+        width: 24
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d235591cbb6aad4dbf4d868542cfa26
+      internalID: 47402404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy - Swamp All Tiles_48
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 480
+        width: 24
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5fe36f0fd97a148449041bd94aafb201
+      internalID: -1494490516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy - Swamp All Tiles_49
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 512
+        width: 7
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22e89ba507f20f142823c8c5889b1184
+      internalID: 1262430280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy - Swamp All Tiles_50
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 501
+        width: 6
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: beedef74d6be4474eace2b8eb88239a8
+      internalID: 1882358703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy - Swamp All Tiles_51
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 499
+        width: 6
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7dbd0b192e833f40b312e838bc9e70b
+      internalID: -53384904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy - Swamp All Tiles_52
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 496
+        width: 6
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 942742a6e8aba15439a8008a18383cb3
+      internalID: -1301710595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy - Swamp All Tiles_53
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 485
+        width: 15
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0f93bb08f11c884fb6dadecb4c0f1b8
+      internalID: -819869329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy - Swamp All Tiles_54
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 496
+        width: 6
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14e5ca41c9c934241be4e91a53b9d3e0
+      internalID: 621325833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy - Swamp All Tiles_55
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 499
+        width: 6
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d2447260c819a24f89c8cba0f3e7817
+      internalID: -1928249522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy - Swamp All Tiles_56
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 501
+        width: 6
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f14b264ea043085499f6c137b3ebee66
+      internalID: 1540873623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy - Swamp All Tiles_57
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 465
+        width: 8
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3543040dcaaecf448afa7ee842ee73e
+      internalID: 1949129010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy - Swamp All Tiles_58
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 462
+        width: 8
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f940a53b5a3a39419743a069c6235c5
+      internalID: 725917636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy - Swamp All Tiles_59
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 472
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a572f226a08dd714a869fc22d5bfc01f
+      internalID: -147803177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy - Swamp All Tiles_60
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 472
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec266334e73125449a8215da3babdf27
+      internalID: -1405303810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy - Swamp All Tiles_61
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 472
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3ff6f732e69d3f45a47a7bebdd60292
+      internalID: 1853103241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy - Swamp All Tiles_62
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 472
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33226ab7af987014db5a0125448d2471
+      internalID: -1061106976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy - Swamp All Tiles_63
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 432
+        width: 24
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2845240829ca82a47ac975717bb8b516
+      internalID: 1762142644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy - Swamp All Tiles_64
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 432
+        width: 24
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e0fac145634b3b4f8b9a7290afb24cb
+      internalID: 1191918033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy - Swamp All Tiles_65
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 432
+        width: 24
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 472bc6a7440176148a848744070cc921
+      internalID: -512620648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy - Swamp All Tiles_66
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 432
+        width: 24
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8ba8dfcec23c9041a7b8963940034da
+      internalID: -1316848735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy - Swamp All Tiles_67
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 464
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 822c9f85f991210479fb2e3ee7d8725b
+      internalID: -1284454670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy - Swamp All Tiles_68
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 461
+        width: 6
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4164da190d799844dbe699e8ef71a982
+      internalID: -1158485925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy - Swamp All Tiles_69
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 392
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5bb26ce0d4a3024e9116874a6833c89
+      internalID: -386984027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy - Swamp All Tiles_70
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 392
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3b4d3d13f8fe61468cc156266560005
+      internalID: 2074055860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy - Swamp All Tiles_71
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 392
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80303c2b53b69374685f2613a9ac56ba
+      internalID: 801622953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy - Swamp All Tiles_72
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 392
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fe70af7720e06144bae5a5aa3dbc56e
+      internalID: -1976129556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy - Swamp All Tiles_73
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 344
+        width: 24
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39e676829e513fa42b0383ff25860d71
+      internalID: -624997642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy - Swamp All Tiles_74
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 296
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4fe335e7fcab05468f9e5d3eae7d3c6
+      internalID: -1568073157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy - Swamp All Tiles_75
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 288
+        width: 24
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ec71b2535e0be543a76b542aea2b328
+      internalID: -521075579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy - Swamp All Tiles_76
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 288
+        width: 24
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c284f827aa027e44e925504bf68b4b3b
+      internalID: 486909551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy - Swamp All Tiles_77
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 288
+        width: 24
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 938c0e010e88cd54db2642a1cdef949a
+      internalID: 213595152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy - Swamp All Tiles_78
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 221
+        width: 77
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03ef41886226fdb409f1df9820d63b6c
+      internalID: -1622392204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy - Swamp All Tiles_79
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 275
+        width: 13
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8717a703e1c86b44883e5ea30d215e6f
+      internalID: 1392177374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy - Swamp All Tiles_80
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 288
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6cd0b7e3219767241aca40a4a2a3ed1a
+      internalID: 1583605699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy - Swamp All Tiles_81
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 283
+        width: 5
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44b058d54ef918444b9686a83b3a5e31
+      internalID: 1288968999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy - Swamp All Tiles_82
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 280
+        width: 5
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59aabf1ae1f3e1446a2728c560005eda
+      internalID: 408149543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy - Swamp All Tiles_83
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 280
+        width: 5
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af445ce1a67faf34fb6dde5f6e5bda5d
+      internalID: 1882100733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy - Swamp All Tiles_84
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 283
+        width: 5
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 669f6e7be66f83f479d4e2e003293a12
+      internalID: 326516827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy - Swamp All Tiles_85
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 288
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea12eb3d78fa48b46a05a20a6d46b6ed
+      internalID: 2094581161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy - Swamp All Tiles_86
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 232
+        width: 88
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cddcd5627e892564ca2e99b1f3638816
+      internalID: -805016136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy - Swamp All Tiles_87
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 240
+        width: 24
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6347a1223ab266c458a9ca72129007a8
+      internalID: 1603195757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy - Swamp All Tiles_88
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 240
+        width: 24
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e85673266d0a294e846466794908d86
+      internalID: 1024429646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy - Swamp All Tiles_89
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 240
+        width: 24
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6631c499a74322b41935eee09395a5e3
+      internalID: 1934839656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy - Swamp All Tiles_90
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 240
+        width: 24
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d72efb791ce06254aaec6d5996e41f49
+      internalID: 1929237507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy - Swamp All Tiles_91
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 259
+        width: 6
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 386faa993f4900c4bada112ee64a202b
+      internalID: -228406195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy - Swamp All Tiles_92
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 256
+        width: 6
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ed9a60329681974db035ae72a48173a
+      internalID: -151659053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy - Swamp All Tiles_93
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 264
+        width: 7
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ad2ecf41d1fbbc488727179c167edc3
+      internalID: 712384132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy - Swamp All Tiles_94
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 256
+        width: 6
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a430eef11a3aa1c48999198f41254575
+      internalID: 1539426311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy - Swamp All Tiles_95
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 259
+        width: 6
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df091cfa1256dd04c8e34de7df568bbd
+      internalID: -859501703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy - Swamp All Tiles_96
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 237
+        width: 15
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3285a0d56944ce46924e90b8bd65d08
+      internalID: -1976778676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy - Swamp All Tiles_97
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 232
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7fbd4a8f7c409ef489a13b82beea06b6
+      internalID: -1030218465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy - Swamp All Tiles_98
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 232
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4fbde18fde35b7478291889beccc924
+      internalID: 418652484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy - Swamp All Tiles_99
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 192
+        width: 24
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 214dad310f15f9040beeeeae2caf3467
+      internalID: 720024760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy - Swamp All Tiles_100
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 192
+        width: 24
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 364d420e107da324b9df7d45df9150f2
+      internalID: -1760057812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy - Swamp All Tiles_101
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 192
+        width: 24
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4462e91f417914243bc19472811b18da
+      internalID: 443980207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy - Swamp All Tiles_102
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 192
+        width: 24
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9c44816fd4f5614c828f23a48ce7453
+      internalID: 1936954622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy - Swamp All Tiles_103
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 225
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9eaf7ba4c168ca541880f9f2d90873af
+      internalID: -892857927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy - Swamp All Tiles_104
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 222
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90cc91e52a3bf9d4ebcd326a9dfeb7f3
+      internalID: -1588389880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy - Swamp All Tiles_105
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 221
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b59bd103dc6b4934e84dfed6d0c908fd
+      internalID: 1026120921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy - Swamp All Tiles_106
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 133
+        width: 77
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b02243f0c9a296a48aa998da1c131bd8
+      internalID: 1067148434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy - Swamp All Tiles_107
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 193
+        width: 5
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb1f97ae1e4aed24e922132c89f76ea9
+      internalID: -825311428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy - Swamp All Tiles_108
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 192
+        width: 5
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f766865c7fb49a43a5fc1dfe3bfd31b
+      internalID: 1736789621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy - Swamp All Tiles_109
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 190
+        width: 5
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5650cc6d3862c944dad9516a3faf4afd
+      internalID: -1976220840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy - Swamp All Tiles_110
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 187
+        width: 5
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38908e8fad131b84b9105684b0c50f4c
+      internalID: -1616511791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy - Swamp All Tiles_111
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 184
+        width: 5
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1cfce5f6aaaa6db45bd21f91be3b5f9f
+      internalID: 1803719901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy - Swamp All Tiles_112
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 187
+        width: 13
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a8e276ca171a924db2c1695454d4b21
+      internalID: 140806939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy - Swamp All Tiles_113
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 184
+        width: 5
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42f272382813d914c98fbf5eaa33024b
+      internalID: 2012527472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy - Swamp All Tiles_114
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 187
+        width: 5
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ee5d31a6bdf6354781c7d8f7e8c2b45
+      internalID: -2121331190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy - Swamp All Tiles_115
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 190
+        width: 5
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b354a767cab983d4a9994b7192cbdf9d
+      internalID: -1710983328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy - Swamp All Tiles_116
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 192
+        width: 5
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b03d88206dfe19e4eb733e7a9ffb963a
+      internalID: 1922832518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy - Swamp All Tiles_117
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 193
+        width: 5
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1698fc80625ee64bbe164eb231a56f5
+      internalID: -1665142833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy - Swamp All Tiles_118
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 160
+        width: 56
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18d18312421899c4aaf0e03939342769
+      internalID: 1275679264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy - Swamp All Tiles_119
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 144
+        width: 24
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17ab72c56586d7d4093660bf3631057f
+      internalID: -1127761264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy - Swamp All Tiles_120
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 144
+        width: 24
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4cd6951c14480e547b99eb56220945f6
+      internalID: -931712404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy - Swamp All Tiles_121
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 144
+        width: 24
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14fe1a4801fc4154185dd1f6289db01f
+      internalID: 287071322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy - Swamp All Tiles_122
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 144
+        width: 24
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db05453ce27d3594594343d6b5fda3fb
+      internalID: -1587001315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy - Swamp All Tiles_123
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 176
+        width: 7
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12c6c61dd36cfe04c969d4475ec75ba4
+      internalID: 1105414201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy - Swamp All Tiles_124
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 165
+        width: 6
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1563c9baa7655ed40ae5f1a22000f38e
+      internalID: -1410339491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy - Swamp All Tiles_125
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 163
+        width: 6
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c050d5fe70476540a63b435d3d37820
+      internalID: 1065588699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy - Swamp All Tiles_126
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 160
+        width: 6
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb1addf563dfb594db2d41e9c7ea3302
+      internalID: -255961580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy - Swamp All Tiles_127
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 149
+        width: 15
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c3d157109634a447ae094be513635c3
+      internalID: 1524852404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy - Swamp All Tiles_128
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 160
+        width: 6
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb26816ef9c75544789f394e01fc2525
+      internalID: -498370454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy - Swamp All Tiles_129
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 163
+        width: 6
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eca9a7e24a72db448bfc981a1708c7ba
+      internalID: 970323867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy - Swamp All Tiles_130
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 165
+        width: 6
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4781761cddb41b4428699bee24e64e6d
+      internalID: -615902599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy - Swamp All Tiles_131
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 129
+        width: 8
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f67d90f3dac89f4db6fb7caf2b6b277
+      internalID: 2026948852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy - Swamp All Tiles_132
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 126
+        width: 8
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afdb3f221ff33764cb23f1d009184812
+      internalID: 182679695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy - Swamp All Tiles_133
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 136
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ec3656af1975624781c395d532a91f9
+      internalID: 404843740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy - Swamp All Tiles_134
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 136
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b8a0abf3c56c4e488434b66c6732d07
+      internalID: 1728480780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy - Swamp All Tiles_135
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 136
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4496144950f68d34a86d42145a8516fb
+      internalID: 1556657518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy - Swamp All Tiles_136
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 136
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbfde354fce166448b9cbc649af40e15
+      internalID: 1626216577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy - Swamp All Tiles_137
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 96
+        width: 24
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c47524214282785468710956d3597b73
+      internalID: -300714821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy - Swamp All Tiles_138
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 96
+        width: 24
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff0a09cfc91a28f49a45414713fdf170
+      internalID: 1809379507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy - Swamp All Tiles_139
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 96
+        width: 24
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5dc80564339805e4e83fd0f62e2e401b
+      internalID: -1442543098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy - Swamp All Tiles_140
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 96
+        width: 24
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 483f12a905e729c47bc2910e94340857
+      internalID: 1341437710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy - Swamp All Tiles_141
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 128
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c20bd8c33d28f64481011c7893a1867
+      internalID: -682991442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy - Swamp All Tiles_142
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 125
+        width: 6
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b57f47e581aa9148a0546f287a67524
+      internalID: 1395527908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy - Swamp All Tiles_143
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 56
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dec769f585ba6bf4f8f8a42139a04cab
+      internalID: 1586908153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy - Swamp All Tiles_144
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 56
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3230885400c28c4582057880d0bd99f
+      internalID: 1808327202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy - Swamp All Tiles_145
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 56
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ee5f82826d8b4b47a7aac505bf5a610
+      internalID: 1982658352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy - Swamp All Tiles_146
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 56
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e097210704d478e4d9ee96c4d6147dc3
+      internalID: 1367461738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy - Swamp All Tiles_147
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 8
+        width: 24
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d740324ba411704daf10a3b7cd707f0
+      internalID: -1420957430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Minifantasy - Swamp All Tiles_76: 486909551
+      Minifantasy - Swamp All Tiles_22: 651282392
+      Minifantasy - Swamp All Tiles_99: 720024760
+      Minifantasy - Swamp All Tiles_65: -512620648
+      Minifantasy - Swamp All Tiles_64: 1191918033
+      Minifantasy - Swamp All Tiles_123: 1105414201
+      Minifantasy - Swamp All Tiles_51: -53384904
+      Minifantasy - Swamp All Tiles_124: -1410339491
+      Minifantasy - Swamp All Tiles_63: 1762142644
+      Minifantasy - Swamp All Tiles_139: -1442543098
+      Minifantasy - Swamp All Tiles_72: -1976129556
+      Minifantasy - Swamp All Tiles_91: -228406195
+      Minifantasy - Swamp All Tiles_42: 323199540
+      Minifantasy - Swamp All Tiles_93: 712384132
+      Minifantasy - Swamp All Tiles_127: 1524852404
+      Minifantasy - Swamp All Tiles_83: 1882100733
+      Minifantasy - Swamp All Tiles_108: 1736789621
+      Minifantasy - Swamp All Tiles_21: 1390319544
+      Minifantasy - Swamp All Tiles_30: 671135823
+      Minifantasy - Swamp All Tiles_38: 588200907
+      Minifantasy - Swamp All Tiles_90: 1929237507
+      Minifantasy - Swamp All Tiles_135: 1556657518
+      Minifantasy - Swamp All Tiles_116: 1922832518
+      Minifantasy - Swamp All Tiles_56: 1540873623
+      Minifantasy - Swamp All Tiles_95: -859501703
+      Minifantasy - Swamp All Tiles_11: 1036615826
+      Minifantasy - Swamp All Tiles_25: -1449865017
+      Minifantasy - Swamp All Tiles_52: -1301710595
+      Minifantasy - Swamp All Tiles_121: 287071322
+      Minifantasy - Swamp All Tiles_134: 1728480780
+      Minifantasy - Swamp All Tiles_96: -1976778676
+      Minifantasy - Swamp All Tiles_117: -1665142833
+      Minifantasy - Swamp All Tiles_77: 213595152
+      Minifantasy - Swamp All Tiles_9: -925861059
+      Minifantasy - Swamp All Tiles_131: 2026948852
+      Minifantasy - Swamp All Tiles_61: 1853103241
+      Minifantasy - Swamp All Tiles_7: 1202565164
+      Minifantasy - Swamp All Tiles_129: 970323867
+      Minifantasy - Swamp All Tiles_37: 1267324547
+      Minifantasy - Swamp All Tiles_107: -825311428
+      Minifantasy - Swamp All Tiles_53: -819869329
+      Minifantasy - Swamp All Tiles_125: 1065588699
+      Minifantasy - Swamp All Tiles_58: 725917636
+      Minifantasy - Swamp All Tiles_75: -521075579
+      Minifantasy - Swamp All Tiles_143: 1586908153
+      Minifantasy - Swamp All Tiles_89: 1934839656
+      Minifantasy - Swamp All Tiles_119: -1127761264
+      Minifantasy - Swamp All Tiles_138: 1809379507
+      Minifantasy - Swamp All Tiles_62: -1061106976
+      Minifantasy - Swamp All Tiles_12: -1169604441
+      Minifantasy - Swamp All Tiles_145: 1982658352
+      Minifantasy - Swamp All Tiles_45: -1079364614
+      Minifantasy - Swamp All Tiles_94: 1539426311
+      Minifantasy - Swamp All Tiles_18: -2050538266
+      Minifantasy - Swamp All Tiles_111: 1803719901
+      Minifantasy - Swamp All Tiles_122: -1587001315
+      Minifantasy - Swamp All Tiles_47: 47402404
+      Minifantasy - Swamp All Tiles_74: -1568073157
+      Minifantasy - Swamp All Tiles_144: 1808327202
+      Minifantasy - Swamp All Tiles_46: -287467385
+      Minifantasy - Swamp All Tiles_1: -244935598
+      Minifantasy - Swamp All Tiles_98: 418652484
+      Minifantasy - Swamp All Tiles_140: 1341437710
+      Minifantasy - Swamp All Tiles_33: 1346836715
+      Minifantasy - Swamp All Tiles_23: 1094271500
+      Minifantasy - Swamp All Tiles_106: 1067148434
+      Minifantasy - Swamp All Tiles_15: -792717088
+      Minifantasy - Swamp All Tiles_8: 1882891326
+      Minifantasy - Swamp All Tiles_4: 2053911776
+      Minifantasy - Swamp All Tiles_14: 1691878459
+      Minifantasy - Swamp All Tiles_68: -1158485925
+      Minifantasy - Swamp All Tiles_60: -1405303810
+      Minifantasy - Swamp All Tiles_50: 1882358703
+      Minifantasy - Swamp All Tiles_110: -1616511791
+      Minifantasy - Swamp All Tiles_19: -1062021454
+      Minifantasy - Swamp All Tiles_59: -147803177
+      Minifantasy - Swamp All Tiles_73: -624997642
+      Minifantasy - Swamp All Tiles_82: 408149543
+      Minifantasy - Swamp All Tiles_5: -2040363596
+      Minifantasy - Swamp All Tiles_26: 304529517
+      Minifantasy - Swamp All Tiles_137: -300714821
+      Minifantasy - Swamp All Tiles_87: 1603195757
+      Minifantasy - Swamp All Tiles_105: 1026120921
+      Minifantasy - Swamp All Tiles_2: -1338943646
+      Minifantasy - Swamp All Tiles_29: -377919212
+      Minifantasy - Swamp All Tiles_85: 2094581161
+      Minifantasy - Swamp All Tiles_27: -308455057
+      Minifantasy - Swamp All Tiles_133: 404843740
+      Minifantasy - Swamp All Tiles_128: -498370454
+      Minifantasy - Swamp All Tiles_43: -213360368
+      Minifantasy - Swamp All Tiles_81: 1288968999
+      Minifantasy - Swamp All Tiles_32: 3494429
+      Minifantasy - Swamp All Tiles_31: 20432975
+      Minifantasy - Swamp All Tiles_102: 1936954622
+      Minifantasy - Swamp All Tiles_20: 786676767
+      Minifantasy - Swamp All Tiles_28: 832676613
+      Minifantasy - Swamp All Tiles_36: -2066282194
+      Minifantasy - Swamp All Tiles_104: -1588389880
+      Minifantasy - Swamp All Tiles_55: -1928249522
+      Minifantasy - Swamp All Tiles_97: -1030218465
+      Minifantasy - Swamp All Tiles_80: 1583605699
+      Minifantasy - Swamp All Tiles_101: 443980207
+      Minifantasy - Swamp All Tiles_71: 801622953
+      Minifantasy - Swamp All Tiles_79: 1392177374
+      Minifantasy - Swamp All Tiles_17: 2023828377
+      Minifantasy - Swamp All Tiles_44: 31935219
+      Minifantasy - Swamp All Tiles_57: 1949129010
+      Minifantasy - Swamp All Tiles_120: -931712404
+      Minifantasy - Swamp All Tiles_114: -2121331190
+      Minifantasy - Swamp All Tiles_118: 1275679264
+      Minifantasy - Swamp All Tiles_13: -1859275911
+      Minifantasy - Swamp All Tiles_132: 182679695
+      Minifantasy - Swamp All Tiles_103: -892857927
+      Minifantasy - Swamp All Tiles_24: 1410148181
+      Minifantasy - Swamp All Tiles_86: -805016136
+      Minifantasy - Swamp All Tiles_48: -1494490516
+      Minifantasy - Swamp All Tiles_88: 1024429646
+      Minifantasy - Swamp All Tiles_70: 2074055860
+      Minifantasy - Swamp All Tiles_34: -796280468
+      Minifantasy - Swamp All Tiles_35: -1288356689
+      Minifantasy - Swamp All Tiles_0: 1096688397
+      Minifantasy - Swamp All Tiles_67: -1284454670
+      Minifantasy - Swamp All Tiles_141: -682991442
+      Minifantasy - Swamp All Tiles_39: 2009280657
+      Minifantasy - Swamp All Tiles_16: -1880221684
+      Minifantasy - Swamp All Tiles_6: -1248450438
+      Minifantasy - Swamp All Tiles_147: -1420957430
+      Minifantasy - Swamp All Tiles_126: -255961580
+      Minifantasy - Swamp All Tiles_69: -386984027
+      Minifantasy - Swamp All Tiles_78: -1622392204
+      Minifantasy - Swamp All Tiles_49: 1262430280
+      Minifantasy - Swamp All Tiles_66: -1316848735
+      Minifantasy - Swamp All Tiles_115: -1710983328
+      Minifantasy - Swamp All Tiles_136: 1626216577
+      Minifantasy - Swamp All Tiles_10: 185419436
+      Minifantasy - Swamp All Tiles_100: -1760057812
+      Minifantasy - Swamp All Tiles_54: 621325833
+      Minifantasy - Swamp All Tiles_146: 1367461738
+      Minifantasy - Swamp All Tiles_130: -615902599
+      Minifantasy - Swamp All Tiles_109: -1976220840
+      Minifantasy - Swamp All Tiles_40: -2138164362
+      Minifantasy - Swamp All Tiles_113: 2012527472
+      Minifantasy - Swamp All Tiles_41: -1285148934
+      Minifantasy - Swamp All Tiles_92: -151659053
+      Minifantasy - Swamp All Tiles_142: 1395527908
+      Minifantasy - Swamp All Tiles_84: 326516827
+      Minifantasy - Swamp All Tiles_112: 140806939
+      Minifantasy - Swamp All Tiles_3: 208017774
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
